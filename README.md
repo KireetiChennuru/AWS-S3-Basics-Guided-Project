@@ -9,7 +9,7 @@ Six learning objectives:
 6. Create Static Website using AWS S3
 
 
-- Bucket Policies (JSON)
+Bucket Policies (JSON)
 
 Static website - Image display while accessing static website URL (index.html and Error.html)
 <br>
