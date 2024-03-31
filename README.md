@@ -9,9 +9,10 @@ Six learning objectives:
 6. Create Static Website using AWS S3
 
 
-**Bucket Policies (JSON)
-**
+- Bucket Policies (JSON)
+
 Static website - Image display while accessing static website URL (index.html and Error.html)
+<br>
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -29,6 +30,7 @@ Static website - Image display while accessing static website URL (index.html an
 
 
 Encryption - This policy allows only encrypted files to get uploaded in S3 bucket 
+<br>
 {
     "Version": "2012-10-17",
     "Id": "Policy1710267696891",
